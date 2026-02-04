@@ -27,3 +27,8 @@ p {
 .cursor{
     background: #20c20e;
 }
+@media (max-width:768px) {
+    p{
+        font-size: 2rem;
+    }
+}
